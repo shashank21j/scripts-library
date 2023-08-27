@@ -1,6 +1,6 @@
 ## Add remote to a local directory
 ```
-git init
+git init -m main
 git remote add origin <url>
-git pull
+git pull origin main
 ```
